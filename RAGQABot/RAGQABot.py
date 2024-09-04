@@ -1,6 +1,6 @@
 import os
 # Replace this with your HF token
-os.environ["HUGGINGFACE_ACCESS_TOKEN"] = "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"
+os.environ["HUGGINGFACE_ACCESS_TOKEN"] = "hf_xxx"
 
 from embedchain import App
 
