@@ -40,6 +40,31 @@ There are many ways to contribute to GitAI:
 
 Before starting work on a major feature or change, please open an issue to discuss it with the maintainers.
 
+## Contribution Areas
+1. Fine-tuned LLMs
+
+- Implement PyTorch and TensorFlow versions of the fine-tuning process
+- Enhance the existing MLX implementation
+- Add support for more model families
+
+2. CLI Native AI Agent
+
+- Improve the agent's reasoning capabilities
+- Enhance error handling and user feedback
+- Guardrails for AI Agents
+
+3. Commonly Used Commands Retrieval System
+
+- Expand the database of Git commands
+- Improve the retrieval algorithm
+- Implement multi-language support
+
+4. RAG QA Bot
+
+- Expand the Git knowledge base
+- Improve answer quality and relevance
+- Optimize performance and response times
+
 
 ## Submitting Pull Requests
 
